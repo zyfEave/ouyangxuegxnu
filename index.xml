@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>欧阳雪的个人主页</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on 欧阳雪的个人主页</description>
+		<generator>Hugo</generator>
+		<language>zh-CN</language>
+		
+		
+		
+			<copyright>版权所有 © 欧阳雪 | 基于 [Hugo](https://gohugo.io/) 构建</copyright>
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>科研成果</title>
+				<link>http://localhost:1313/achievements/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/achievements/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>科研项目</title>
+				<link>http://localhost:1313/projects/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>团队介绍</title>
+				<link>http://localhost:1313/team/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/team/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>研究方向</title>
+				<link>http://localhost:1313/research/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/research/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>招生招聘</title>
+				<link>http://localhost:1313/recruitment/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/recruitment/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
