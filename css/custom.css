@@ -2,7 +2,7 @@
   --academic-ink: #000000;
   --academic-muted: #1f2933;
   --academic-blue: #0f5f9f;
-  --academic-panel: rgba(255, 255, 255, 0.88);
+  --academic-panel: rgba(255, 255, 255, 0.97);
 }
 
 html,
@@ -23,7 +23,7 @@ body::before {
   position: fixed;
   inset: 0;
   z-index: -2;
-  background-image: url('/images/background.jpg') !important;
+  background-image: url('../img/background.webp') !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -61,7 +61,7 @@ main > .container {
   margin: 0 auto;
   padding: clamp(1.5rem, 3vw, 3rem) !important;
   color: var(--academic-ink);
-  background: rgba(255, 255, 255, 0.84) !important;
+  background: rgba(255, 255, 255, 1) !important;
   border: 1px solid rgba(255, 255, 255, 0.72);
   border-radius: 22px;
   box-shadow: 0 24px 70px rgba(15, 31, 45, 0.14);
@@ -92,7 +92,36 @@ main > .container {
 .content-panel .list-group-item,
 .content-panel .table-responsive,
 .content-panel table {
-  background: rgba(255, 255, 255, 0.72) !important;
+  background: rgba(255, 255, 255, 0.98) !important;
+}
+
+.content-panel .card-body,
+.content-panel .card-header,
+.content-panel .card-footer {
+  background: transparent !important;
+}
+
+.content-panel .list-group.list-group-flush {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.content-panel .achievement-item,
+.content-panel .project-item {
+  margin-bottom: 0 !important;
+  padding: 1rem 1.25rem !important;
+  background: rgba(255, 255, 255, 0.98) !important;
+  border: 1px solid rgba(15, 95, 159, 0.14) !important;
+  border-left: 4px solid var(--academic-blue) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 22px rgba(15, 31, 45, 0.06) !important;
+}
+
+.content-panel .achievement-item::before,
+.content-panel .project-item::before {
+  color: var(--academic-blue) !important;
+  font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -160,7 +189,7 @@ nav.navbar,
   margin: 0 auto;
   padding: clamp(2rem, 4vw, 3.5rem);
   color: var(--academic-ink);
-  background: rgba(255, 255, 255, 0.84);
+  background: rgba(255, 255, 255, 0.94);
   border: 1px solid rgba(255, 255, 255, 0.72);
   border-radius: 28px;
   box-shadow: 0 24px 70px rgba(15, 31, 45, 0.16);
@@ -313,6 +342,23 @@ nav.navbar,
   font-size: 1.05rem;
   font-weight: 500;
   text-decoration: none;
+}
+
+.recruitment-text h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #000000 !important;
+}
+
+.recruitment-text h3:first-child {
+  margin-top: 0;
+}
+
+.recruitment-text p {
+  margin-bottom: 0.85rem;
+  line-height: 1.9;
 }
 
 .footer {
