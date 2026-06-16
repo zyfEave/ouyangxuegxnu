@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>欧阳雪的个人主页</title>
-		<link>http://localhost:1313/</link>
+		<link>https://zyfEave.github.io/ouyangxuegxnu/</link>
 		<description>Recent content on 欧阳雪的个人主页</description>
 		<generator>Hugo</generator>
 		<language>zh-CN</language>
@@ -12,40 +12,40 @@
 			<copyright>版权所有 © 欧阳雪 | 基于 [Hugo](https://gohugo.io/) 构建</copyright>
 		
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://zyfEave.github.io/ouyangxuegxnu/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>科研成果</title>
-				<link>http://localhost:1313/achievements/</link>
+				<link>https://zyfEave.github.io/ouyangxuegxnu/achievements/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/achievements/</guid>
+				<guid>https://zyfEave.github.io/ouyangxuegxnu/achievements/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>科研项目</title>
-				<link>http://localhost:1313/projects/</link>
+				<link>https://zyfEave.github.io/ouyangxuegxnu/projects/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/projects/</guid>
+				<guid>https://zyfEave.github.io/ouyangxuegxnu/projects/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>团队介绍</title>
-				<link>http://localhost:1313/team/</link>
+				<link>https://zyfEave.github.io/ouyangxuegxnu/team/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/team/</guid>
+				<guid>https://zyfEave.github.io/ouyangxuegxnu/team/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>研究方向</title>
-				<link>http://localhost:1313/research/</link>
+				<link>https://zyfEave.github.io/ouyangxuegxnu/research/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/research/</guid>
+				<guid>https://zyfEave.github.io/ouyangxuegxnu/research/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>招生招聘</title>
-				<link>http://localhost:1313/recruitment/</link>
+				<link>https://zyfEave.github.io/ouyangxuegxnu/recruitment/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/recruitment/</guid>
+				<guid>https://zyfEave.github.io/ouyangxuegxnu/recruitment/</guid>
 				<description></description>
 			</item>
 	</channel>
