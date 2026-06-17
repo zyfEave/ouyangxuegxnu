@@ -2,7 +2,7 @@ User-agent: *
 
 Disallow: /zh/404
 
-Sitemap: http://localhost:14849/ouyangxuegxnu//sitemap.xml
+Sitemap: https://zyfEave.github.io/ouyangxuegxnu//sitemap.xml
 
 # Block all known AI crawlers and assistants
 # from using content for training AI models.

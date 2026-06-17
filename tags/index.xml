@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on 欧阳雪的个人主页</title>
-		<link>http://localhost:14849/ouyangxuegxnu/tags/</link>
-		<description>Recent content in Tags on 欧阳雪的个人主页</description>
-		<generator>Hugo</generator>
-		<language>zh-CN</language>
-		
-		
-		
-			<copyright>版权所有 © 欧阳雪 | 基于 [Hugo](https://gohugo.io/) 构建</copyright>
-		
-		
-			<atom:link href="http://localhost:14849/ouyangxuegxnu/tags/index.xml" rel="self" type="application/rss+xml" />
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 欧阳雪的个人主页</title><link>https://zyfEave.github.io/ouyangxuegxnu/tags/</link><description>Recent content in Tags on 欧阳雪的个人主页</description><generator>Hugo</generator><language>zh-CN</language><copyright>版权所有 © 欧阳雪 | 基于 [Hugo](https://gohugo.io/) 构建</copyright><atom:link href="https://zyfEave.github.io/ouyangxuegxnu/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
