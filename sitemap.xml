@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://zyfEave.github.io/ouyangxuegxnu/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/tags/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/conferences/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/achievements/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/projects/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/team/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/research/</loc></url><url><loc>https://zyfEave.github.io/ouyangxuegxnu/recruitment/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:2902/ouyangxuegxnu/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/tags/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/conferences/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/achievements/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/projects/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/team/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/research/</loc>
+  </url><url>
+    <loc>http://localhost:2902/ouyangxuegxnu/recruitment/</loc>
+  </url>
+</urlset>
